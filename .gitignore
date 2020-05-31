@@ -1,0 +1,8 @@
+.idea/
+.sublime/
+.vscode/
+.cache/
+node_modules/
+package-lock.json
+DS_Store
+Thumbs.db
